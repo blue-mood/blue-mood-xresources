@@ -1,0 +1,39 @@
+!Blue Mood color theme
+!Port of emacs Blue Mood theme to Xresources
+!Author: lmintmate
+
+#define dodgerblue4 #104e8b
+#define whitesmoke #f5f5f5
+#define tomato #ff6347
+#define gold #ffd700
+#define bg2 #235c94
+#define wheat #f5deb3
+#define cyan #00ffff
+#define cyan3 #00cdcd
+#define darkgray #4d4d4d
+#define red #ff0000
+#define black #000000
+#define chartreuse_green #7fff00
+#define steelblue3 #4f94cd
+#define gray75 #bfbfbf
+#define yellow #ffff00
+
+*background: dodgerblue4
+*foreground: whitesmoke
+
+*color0: black
+*color1: red
+*color2: chartreuse_green
+*color3: gold
+*color4: bg2
+*color5: steelblue3
+*color6: wheat
+*color7: gray75
+*color8: darkgray
+*color9: tomato
+*color10: chartreuse_green
+*color11: yellow
+*color12: cyan3
+*color13: cyan
+*color14: wheat
+*color15: whitesmoke
