@@ -2,7 +2,7 @@
 
 This is a port of [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-mood-theme.html) for Xresources (xterm, (u)rxvt, and other X11 applications).
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/xresources-screenshot.png)
 
 ## Installation
 
